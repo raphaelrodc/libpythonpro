@@ -5,4 +5,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 link para o curso [Python Pro](https://www.python.pro.br)
 
-Teste do fetch
+Suportado versão 3 de Python
+
+Tópico a serem abordados:
+1. Git
+2. Virtualenv
+3. Pip
