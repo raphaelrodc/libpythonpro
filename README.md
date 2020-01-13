@@ -8,6 +8,7 @@ link para o curso [Python Pro](https://www.python.pro.br)
 [![Build Status](https://travis-ci.org/raphaelrodc/libpythonpro.svg?branch=master)](https://travis-ci.org/raphaelrodc/libpythonpro)
 [![Updates](https://pyup.io/repos/github/raphaelrodc/libpythonpro/shield.svg)](https://pyup.io/repos/github/raphaelrodc/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/raphaelrodc/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/raphaelrodc/libpythonpro/)
+[![codecov](https://codecov.io/gh/raphaelrodc/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/raphaelrodc/libpythonpro)
 
 Suportado versão 3 de Python
 
