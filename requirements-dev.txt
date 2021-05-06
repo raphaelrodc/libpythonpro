@@ -13,7 +13,7 @@ pluggy==0.13.1
 py==1.8.1
 pyparsing==2.4.6
 wcwidth==0.1.8
-six==1.13.0
+six==1.16.0
 pytest==5.3.3
 
 #Coverage
