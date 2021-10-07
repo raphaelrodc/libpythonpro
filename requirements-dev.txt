@@ -17,7 +17,7 @@ six==1.13.0
 pytest==5.3.3
 
 #Coverage
-coverage==5.0.3
+coverage==6.0.1
 pytest-cov==2.8.1
 
 -r requirements.txt
